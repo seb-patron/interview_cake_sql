@@ -1,0 +1,19 @@
+name: sql-query-practice
+dependencies:
+ - python=3.7
+ - numpy
+ - scipy
+ - scikit-learn
+ - jupyter
+ - requests
+ - pandas
+ - seaborn
+ - click
+ - openpyxl
+ - nb_conda
+ - psycopg2
+ - PyMySQL
+ - pip:
+   - watermark
+   - pytest
+   - surprise
